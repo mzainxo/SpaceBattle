@@ -1,4 +1,4 @@
-# MARS Invaders
+# Space Battle
 
 ![](https://github.com/StevenMonty/MIPS-Space-Invaders/blob/master/gamePlay.gif)
 
